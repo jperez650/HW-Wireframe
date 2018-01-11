@@ -5,27 +5,50 @@
 	background: #777;
 	overflow: scroll;
 }
+.center {
+	width: 80%;
+	margin: auto;
+}
 
 .box {
 	position: relative;
 	background: #ebebeb;
 	padding:200;
-	width: 900px;
+	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	padding: 30px;
-
+	padding: 40px;
 }
-
 .header {
 	top: 5px;
 }
-
 .nav {
 	top: 10px;
 }
-
 .footer {
+
 	top: 500px;
+}
+.left-section{
+	position: absolute;
+	top: 27%;
+	background: #ebebeb;
+	padding:200;
+	width: 495px;
+	height: 400px;
+	left: 15.15%;
+	text-align: center;
+	padding: 30px;
+}
+.right-section{
+	position: absolute;
+	top: 27%;
+	background: #ebebeb;
+	padding:200;
+	width: 370px;
+	height: 400px;
+	right: 15.15%;
+	text-align: center;
+	padding: 30px;
 }
