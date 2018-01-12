@@ -4,6 +4,7 @@
 	height: 960px;
 	background: #777;
 	overflow: scroll;
+	
 }
 .center {
 	width: 80%;
@@ -46,9 +47,49 @@
 	top: 27%;
 	background: #ebebeb;
 	padding:200;
-	width: 370px;
+	width: 295px;
 	height: 400px;
 	right: 15.15%;
 	text-align: center;
 	padding: 30px;
+}
+.h1 {
+	position: absolute;
+	width: 434px;
+	height: 300px;
+	padding: 30px;
+	background: #777;
+}
+.section {
+	padding-top: 1px;
+}
+.article {
+	margin-top: 5%;
+}
+.h2 {
+	position: relative;
+	width: 393px;
+	height: 30px;
+	left: 10px;
+	background: #ebebeb;
+	margin-top: 120px;
+	padding: 8%;
+
+}
+.h{
+	margin-bottom: 10px;
+}
+.h3 {
+	position: relative;
+	width: 393px;
+	height: 30px;
+	left: 10px;
+	background: #ebebeb;
+	margin-top: 120px;
+	padding: 8%;
+	bottom: 100px;
+
+}
+.p {
+	text-align: center;
 }
